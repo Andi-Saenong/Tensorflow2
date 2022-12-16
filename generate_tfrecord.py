@@ -26,9 +26,9 @@ FLAGS = flags.FLAGS
 
 
 def class_text_to_int(row_label):
-    if row_label == 'Entog':
+    if row_label == 'cairina-moschata':
         return 1
-    elif row_label == 'Kawin':
+    elif row_label == 'dating':
         return 2
     elif row_label == 'Mengeram':
         return 3
